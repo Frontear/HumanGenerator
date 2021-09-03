@@ -1,8 +1,4 @@
 @echo off
 
-mingw32-make
-
+mingw32-make run
 pause
-cls
-
-.\output\main.exe
